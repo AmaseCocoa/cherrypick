@@ -1,11 +1,11 @@
 {
 	"name": "cherrypick",
-	"version": "4.8.0",
+	"version": "4.8.0-CocoaTea.1",
 	"basedMisskeyVersion": "2024.3.1",
 	"codename": "nasubi",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/kokonect-link/cherrypick.git"
+		"url": "https://github.com/AmaseCocoa/cherrypick.git"
 	},
 	"packageManager": "pnpm@8.15.4",
 	"workspaces": [
